@@ -1,7 +1,10 @@
+ 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=220&section=header&text=Aniruddha%20Kurhe&fontSize=42&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Azure%20Cloud%20%E2%80%A2%20Terraform%20%E2%80%A2%20Git%20%26%20GitHub%20%E2%80%A2%20CI%2FCD&descAlignY=62&descSize=16&fontColor=ffffff" width="100%" alt="Aniruddha Kurhe Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,45:0066CC,100:00D4FF&height=220&section=header&text=Aniruddha%20Kurhe&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" alt="Aniruddha Kurhe Header Banner" />
+
+</div>
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/aniruddha868">
