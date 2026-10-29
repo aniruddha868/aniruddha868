@@ -1,9 +1,11 @@
+
 <div align="center">
 
 <!-- ANIMATED CAPSULE RENDER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,45:0066CC,100:00D4FF&height=220&section=header&text=Aniruddha%20Kurhe&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" alt="Aniruddha Kurhe Header Banner" />
 
 </div>
+
 
 
 <!-- TYPING ANIMATION -->
